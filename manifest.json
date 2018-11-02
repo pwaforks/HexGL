@@ -1,0 +1,27 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "HexGL PWA",
+    "scope": "/HexGL/",
+    "display": "browser",
+    "start_url": "https://pwaforks.github.io/HexGL/",
+    "short_name": "HexGL:PWA",
+    "theme_color": "transparent",
+    "description": "HexGL is a futuristic racing game built by Thibaut Despoulain (BKcore) using HTML5, Javascript and WebGL. Come challenge your friends on this fast-paced 3D game!",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/favicon.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        }
+    ]
+}
